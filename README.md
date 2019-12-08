@@ -18,3 +18,6 @@ Swish is an BasketBall fan-made app, that shows realtime  scoreboard with realti
 ## Disclaimer
  This App is a non-profit application. If the content of this App inadvertently infringes on the intellectual property rights of any media, company, enterprise, or individual, please call or write to us. This website will provide related processing such as deletion within a specified time .
 
+## Contact Us
+   email: appdevlucy@gmail.com,
+   github: https://github.com/LucyHolden/Swish
